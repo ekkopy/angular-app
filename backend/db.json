@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Canete AZUL BIC do bolsonaro",
+      "price": 1.12
+    },
+    {
+      "id": 2,
+      "name": "Canete VERMELHA BICasdadasdas",
+      "price": 1.74
+    },
+    {
+      "id": 3,
+      "name": "Canete PRETA BIC",
+      "price": 2.12
+    },
+    {
+      "name": "Testing product",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "coming database",
+      "price": "100",
+      "id": 6
+    }
+  ]
+}
